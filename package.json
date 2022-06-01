@@ -1,0 +1,28 @@
+{
+  "name": "tutorial2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/diorgesherspt/api-node-express-sequelize-sqlite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diorgesherspt/api-node-express-sequelize-sqlite/issues"
+  },
+  "homepage": "https://github.com/diorgesherspt/api-node-express-sequelize-sqlite#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.20.1",
+    "sqlite3": "^5.0.8"
+  }
+}
